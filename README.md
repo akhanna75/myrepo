@@ -1,1 +1,1 @@
-This is a sample repository for github testing.
+This is a sample repository for github testing!
